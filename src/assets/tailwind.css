@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app, main, html {
+	border-radius: 10px;
+	background-color: #fff;
+}
+
+html, body {
+	margin: 0;
+	padding: 0;
+  }

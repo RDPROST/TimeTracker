@@ -1,0 +1,21 @@
+{
+	"emptySearchMessage": "Nothing found",
+	"project": "Project",
+	"login": "Login",
+	"password": "Password",
+	"error": "Error",
+	"success": "Success",
+	"title": "Time Tracking App",
+	"loginButton": "Login",
+	"task": "Task",
+	"rememberMe": "Remember me",
+	"timer": "Timer",
+	"start": "Start",
+	"stop": "Stop",
+	"settings": "Settings",
+	"language": "Language",
+	"smartList": "Smart List",
+	"settingsSaved": "Settings saved",
+	"save": "Save",
+	"cancel": "Cancel"
+}
